@@ -1,0 +1,17 @@
+PROGRAM Program5
+
+DECLARE
+	STRING name
+	STRING dumb 
+	INTEGER number
+
+BEGIN
+	PRINT "Name Printed!"
+	SET name := "Tyler"
+	PRINT name
+	PRINT "Item Printed!"
+	SET number := 2
+	PRINT number
+
+	
+END
